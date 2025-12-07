@@ -77,9 +77,6 @@ Open the corresponding `.ipynb` file in Jupyter and execute cells.
 
 Contributions welcome. Open an issue or PR with improvements, clearer docs, or more examples (e.g., notebook splitting, tests, CI).
 
-**License**
-
-Choose and add a license (MIT recommended for examples). To add MIT, create a `LICENSE` file with the MIT text.
 
 **Contact**
 
@@ -87,7 +84,6 @@ Open issues in this repository or contact the maintainer in the repo metadata.
 
 ---
 
-_Converted: example scripts and corresponding notebooks included in the same folder for ease of use._
 ```mermaid
 graph TB
     subgraph "Your Application"
